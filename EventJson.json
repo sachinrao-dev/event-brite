@@ -1,0 +1,17 @@
+[
+    {
+        "event": "Cultural fest ",
+        "location": "Noida",
+       "capacity": 100
+    },
+    {
+        "event": "Republic Day fest",
+        "location": "Delhi",
+       "capacity": 100
+    },
+    {
+        "event": "Night fest ",
+        "location": "Noida",
+       "capacity": 100
+    }
+]
